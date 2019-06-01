@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application With Sugar</string>
+    <string name="app_name">Task Manager</string>
     <string name="UI_1_Title">Task Manager</string>
     <string name="UI_1_Btn">Enter</string>
     <string name="UI_2_Btn">Add</string>

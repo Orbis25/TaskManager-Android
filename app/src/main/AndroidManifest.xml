@@ -12,9 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
-        <activity android:name=".UI_3"></activity>
-        <activity android:name=".HH" />
-        <activity android:name=".FFF" />
         <activity
             android:name=".UI__1"
             android:label="@string/title_activity_ui__1"
